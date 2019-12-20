@@ -1,0 +1,111 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 3rem;
+}
+
+h3 {
+    color: #11999E;
+}
+
+hr {
+
+    border-style: dotted;
+    width: 5%;
+}
+
+/*************************************** CLASS SELECTORS ***************************************/
+
+.bottom-cloud {
+
+    position: absolute;
+    right: 400px;
+    top: 300px;
+}
+
+.mountain {
+
+    height: 500px;
+    width: auto;
+}
+
+.top-container {
+
+    background-color: #EAF6F6;
+    padding-top: 300px;
+    position: relative;
+}
+
+.top-cloud {
+
+    position: absolute;
+    top: 250px;
+    left: 450px;
+}
+
+.leadership-skill {
+
+    width: 15%;
+    border-radius: 100%;
+    float: right;
+}
+
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-descriptions {
+
+    line-height: 2;
+}
+
+.web-skill {
+
+    width: 15%;
+    border-radius: 100%;
+    margin-right: 30px;
+    float: left;
+}
+
+
+
+
+/*************************************** ID SELECTORS *******************************************/
+
+#intro {
+    
+    margin-bottom: 75px;
+    color: #66BFBF
+}
+
+#profile-pic {
+
+    margin-top: 15px;
+    border-radius: 100%;
+}
+
+#my-skills-title {
+
+    position: relative;
+    top: 30px;
+}
+
+#title-name {
+
+    font-size: 5rem;
+}
